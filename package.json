@@ -36,6 +36,6 @@
     "node"
   ],
   "main": "./lib/plates.js",
-  "ender": "./lib/ender.js",
+  "ender": "./lib/ender.js"
 }
 
